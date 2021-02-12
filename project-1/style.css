@@ -1,6 +1,10 @@
 p {
     color: antiquewhite;
     background: }
+div {
+  display: flex;
+  align-items: center;
+}
             
 body {
         background-color: black
