@@ -1,5 +1,5 @@
 # iml300
-# Project 1 Title
+# The Recipe to Your Humanity
 !(https://github.com/annalieseeee.github/iml300/blob/master/project-1/asset/breath-in-and-out.gif)
 
 [The Recipe to Your Humanity](https://annalieseeee.github.io/iml300/project-1/) is an interactive web experience that explores unconscious movement and identity. 
