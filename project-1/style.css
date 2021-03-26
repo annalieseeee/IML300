@@ -7,18 +7,29 @@ div {
 }
             
 body {
-        background-color: black;  
-    background-size: cover;
-    }
+        background-image: url(asset/rope.gif);
+        color: white;
+        font-family: cursive;  
+        text-align: center;
+      
+}
 .bg-1{
     background-image: url(asset/breath-in-and-out.gif);
     overflow: scroll;
 }
 
 .bg-2{
-     background-image: url(asset/breath-in-and-out.gif);     }
+     background-image: url(asset/breath-in-and-out.gif);
+    font-family: fantasy;
+    text-align: center}
 .bg-3{
     background-image:
     
 }    
+.bg-10{
+    background-image: url(asset/safe.gif);
+    background-color: aqua;
+        font-family: fantasy;
+    text-align: center;
     
+}
