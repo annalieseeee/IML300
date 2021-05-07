@@ -2,7 +2,7 @@
 # The Recipe to Your Humanity
 
 ![demo](https://github.com/annalieseeee/iml300/blob/master/project-1/asset/breath-in-and-out.gif)
->>>>>>> 2eed59db96458078f65bbc1e3681457aa3db0ba3
+
 
 [The Recipe to Your Humanity](https://github.com/annalieseeee/iml300/blob/master/project-1/asset/breath-in-and-out.gif) is an interactive web experience that explores unconscious movement and identity. 
 
