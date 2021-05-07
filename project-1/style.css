@@ -8,9 +8,10 @@ div {
             
 body {
         background-image: url(asset/rope.gif);
-        color: white;
-        font-family: cursive;  
-        text-align: center;
+   font-family: arlette, AvenirLight, helvetica, arial, sans-serif;
+  font-weight: 500;
+  margin: 2em;
+   background-color: #E6E6FA;
       
 }
 .bg-1{
