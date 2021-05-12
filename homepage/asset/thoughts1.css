@@ -1,0 +1,18 @@
+body{
+     background-color: #E6E6FA;
+   
+}
+
+h3{  
+font-family: 'Roboto Mono', monospace;
+    color:	#7B68EE ;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+text-align: left;
+color: #7B68EE;
+}
+
+h3:hover{
+     color: #8c1aff;
+}

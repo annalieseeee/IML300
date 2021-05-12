@@ -16,8 +16,8 @@ banner {
     display: center;
     font-family: 'Advent Pro', sans-serif;
     float: middle;
-    font-size: 125px;
-    line-height: 150px;
+    font-size: 150px;
+    line-height: 250px;
     display: flex;
     align-items: center;
     letter-spacing: 0px;
@@ -30,6 +30,10 @@ banner {
 
 nav {
     float: right;
+}
+
+nav:hover{
+    color: #8c1aff;
 }
 
 nav ul{
@@ -49,11 +53,12 @@ nav a{
     text-decoration: none;
     text-transform: uppercase;
 }
-
-nav a: hover{
-     color: #dd99ff;
-    
+ 
+nav a:hover{
+     color: #8c1aff;
 }
+    
+
 
 h1{
     font-family: 'Advent Pro', sans-serif;
@@ -66,6 +71,19 @@ h1{
     margin-bottom:0;
     text-transform: uppercase; 
     color: #dd99ff;
+}
+
+p2 {
+   font-family: 'Advent Pro', sans-serif;
+    float: left;
+    font-size: 20px;
+    line-height: 100px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 2px;
+    margin-bottom:0;
+    text-transform: uppercase; 
+    color: #7B68EE; 
 }
 
 
