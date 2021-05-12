@@ -2,7 +2,7 @@
 
 The Glossary to be a Good Human
 
-![demo]()
+![demo](https://github.com/annalieseeee/iml300/blob/25e9a5afec926956e25985046ec24c1979362aa4/language.gif)
 
 "The Glossary to be a Good Human" is a minimalist etymological work 
 dedicated to the understanding that language is a powerful medium that
