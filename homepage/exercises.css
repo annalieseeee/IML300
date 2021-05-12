@@ -1,0 +1,42 @@
+
+body {
+    font-family: arlette, AvenirLight, helvetica, arial, sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    margin: 2em;
+    background-color: #E6E6FA;
+    color: 	#7B68EE;
+    text-transform: uppercase;
+
+}
+h1{
+    font-family: 'Advent Pro', sans-serif;
+    color: 	#7B68EE;
+    text-transform: uppercase;
+    text-decoration: none;
+    float: middle;
+    font-size: 125px;
+    line-height: 150px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 5px;
+    margin-bottom:0;
+   
+   
+color: #000000;
+}
+
+iframe{
+    width:400px;
+    height: 400px;   
+}
+
+.grid-container {
+    grid-template-columns: auto auto auto auto;
+    font-family: 'Advent Pro', sans-serif;
+    color: 	#7B68EE;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+}
+
